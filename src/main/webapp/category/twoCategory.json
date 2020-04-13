@@ -1,0 +1,25 @@
+{
+  "total": "9",
+  "records": "20",
+  "page": "2",
+  "rows": [
+    {
+      "id": "11",
+      "cateName": "mysql",
+      "levels": "2",
+      "parentId": "1"
+    },
+    {
+      "id": "12",
+      "cateName": "jquery",
+      "levels": "2",
+      "parentId": ""
+    },
+    {
+      "id": "31",
+      "cateName": "jsp",
+      "levels": "2",
+      "parentId": "1"
+    }
+  ]
+}

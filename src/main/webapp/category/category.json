@@ -1,0 +1,25 @@
+{
+  "total": "3",
+  "records": "9",
+  "page": "2",
+  "rows": [
+    {
+      "id": "1",
+      "cateName": "Servlet",
+      "levels": "1",
+      "parentId": "1"
+    },
+    {
+      "id": "2",
+      "cateName": "jdbc",
+      "levels": "1",
+      "parentId": "1"
+    },
+    {
+      "id": "3",
+      "cateName": "status2",
+      "levels": "1",
+      "parentId": "1"
+    }
+  ]
+}
